@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jdson Lima
+- 👋 Hi, I’m Jadson Lima
 - 👀 I’m interested in java
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java
